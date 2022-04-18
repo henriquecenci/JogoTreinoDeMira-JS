@@ -1,0 +1,49 @@
+.mira1{
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    width: 120px;
+    height: 120px;
+    border-radius: 70%;
+}
+
+.mira2{
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    width: 90px;
+    height: 90px;
+    border-radius: 70%;
+}
+
+.mira3{
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    width: 60px;
+    height: 60px;
+    border-radius: 70%;
+}
+
+.painel{
+    position: absolute;
+    width: 190px;
+    padding: 10px;
+    bottom: 0px;
+    border-top: solid 1px #fff;
+    background-color: #ffff;
+    opacity: 0.7;
+}
+
+.vidas{
+    float:left;
+}
+
+.cronometro{
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+}
